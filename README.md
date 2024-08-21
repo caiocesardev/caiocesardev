@@ -43,4 +43,4 @@
 
 ## Onde me encontrar
 
-[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[LINK-DO-SEU-LINKEDIN](https://www.linkedin.com/in/caio-cesar-pena/))]([LINK-DO-SEU-LINKEDIN](https://www.linkedin.com/in/caio-cesar-pena/))
+[![Linkedin](https://img.shields.io/badge/-caiocesar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/caio-cesar-pena/]
