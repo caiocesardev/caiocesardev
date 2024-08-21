@@ -3,9 +3,9 @@
 ## Sobre mim
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Estudando {Desenvolvimento de Software Multiplataforma} no {FATEC - Faculdade de Tecnologia do Estado de São Paulo}.
+- 🎓 Estudando Desenvolvimento de Software Multiplataforma na FATEC - Faculdade de Tecnologia do Estado de São Paulo.
 - 💼 Buscando oportunidade no mercado de trabalho.
-- 🌱 Aprendendo mais sobre {React}.
+- 🌱 Aprendendo mais sobre React no momento.
 
 ## Minhas Skills
 
@@ -43,6 +43,6 @@
 
 ## Onde me encontrar
 
-[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](LINK-DO-SEU-LINKEDIN)
-[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:SEU-EMAIL)
-[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](LINK-DO-SEU-GITHUB)
+[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)]([LINK-DO-SEU-LINKEDIN](https://www.linkedin.com/in/caio-cesar-pena/))
+[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](caio.pena@fatec.sp.gov.br)
+[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)]([LINK-DO-SEU-GITHUB](https://github.com/caiocesardev))
