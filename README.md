@@ -43,6 +43,4 @@
 
 ## Onde me encontrar
 
-[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)]([LINK-DO-SEU-LINKEDIN](https://www.linkedin.com/in/caio-cesar-pena/))
-[![Gmail Badge](https://img.shields.io/badge/-caio.pena@fatec.sp.gov.br-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:caio.pena@fatec.sp.gov.br)](caio.pena@fatec.sp.gov.br)
-[![GitHub](https://img.shields.io/github/followers/caiocesardev?label=follow&style=social)]([LINK-DO-SEU-GITHUB](https://github.com/caiocesardev))
+[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[LINK-DO-SEU-LINKEDIN](https://www.linkedin.com/in/caio-cesar-pena/))]([LINK-DO-SEU-LINKEDIN](https://www.linkedin.com/in/caio-cesar-pena/))
