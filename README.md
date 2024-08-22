@@ -19,6 +19,8 @@ Olá!  Eu sou um estudante de Desenvolvimento de Software Multiplataforma na FAT
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![Typescript](https://img.shields.io/badge/-Typescript-333333?style=flat&logo=Typescript&logoColor=007396)
+![NodeJS](https://img.shields.io/badge/-NodeJS-333333?style=flat&logo=NodeJS&logoColor=007396)
+
 
 **Bancos de Dados:**
 
