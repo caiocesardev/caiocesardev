@@ -16,10 +16,10 @@ Olá!  Eu sou um estudante de Desenvolvimento de Software Multiplataforma na FAT
 
 **Backend:**
 
-![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=openjdk&logoColor=007396)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![Typescript](https://img.shields.io/badge/-Typescript-333333?style=flat&logo=Typescript&logoColor=007396)
-![NodeJS](https://img.shields.io/badge/-NodeJS-333333?style=flat&logo=NodeJS&logoColor=007396)
+![NodeJS](https://img.shields.io/badge/-NodeJS-333333?style=flat&logo=Node.js&logoColor=007396)
 
 
 **Bancos de Dados:**
@@ -41,7 +41,7 @@ Olá!  Eu sou um estudante de Desenvolvimento de Software Multiplataforma na FAT
 **Ambientes de Desenvolvimento:**
 
  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
+ ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
 
 **Design:**
 
