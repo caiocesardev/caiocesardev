@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=caiocesardev&color=006bed)
 
-## Caio Cesar Dev
+## Caio Cesar
 
 Olá!  Eu sou um estudante de Desenvolvimento de Software Multiplataforma na FATEC buscando oportunidades no mercado de trabalho.  Sou apaixonado por explorar novas tecnologias e adoro criar soluções de software que atendam às necessidades reais das pessoas.  Atualmente, estou focando em aprender React.js para aprimorar minhas habilidades em desenvolvimento web.
 
