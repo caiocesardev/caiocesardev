@@ -1,47 +1,64 @@
 ![](https://komarev.com/ghpvc/?username=caiocesardev&color=006bed)
 
-## Sobre mim
+## Caio Cesar Dev
 
-- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Estudando Desenvolvimento de Software Multiplataforma na FATEC - Faculdade de Tecnologia do Estado de São Paulo.
-- 💼 Buscando oportunidade no mercado de trabalho.
-- 🌱 Aprendendo mais sobre React no momento.
+Olá!  Eu sou um estudante de Desenvolvimento de Software Multiplataforma na FATEC buscando oportunidades no mercado de trabalho.  Sou apaixonado por explorar novas tecnologias e adoro criar soluções de software que atendam às necessidades reais das pessoas.  Atualmente, estou focando em aprender React.js para aprimorar minhas habilidades em desenvolvimento web.
 
-## Minhas Skills
+## Habilidades
 
-**Aplicações e dados**
+**Frontend:**
 
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+*  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+*  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+*  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)   
+  
+*  ![Bootstrap](text=Bootstrap)  *  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 
-**Utilidades**
+**Backend:**
 
-![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
+*  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
 
-**DevOps**
+**Bancos de Dados:**
+
+*  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+*  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+
+**Ferramentas:**
+
+*  ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
+
+**DevOps:**
+
+*  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+*  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+*  ![Bitbucket](https://img.shields.io/badge/-Bitbucket-333333?style=flat&logo=bitbucket)
+*  ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+*  ![Travis](https://img.shields.io/badge/-Travis-333333?style=flat&logo=travis)
+
+**Ambientes de Desenvolvimento:**
+
+*  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+*  ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
+
+**Gerenciamento de Projetos:**
+
+*  ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
+
+**Design:**
+
+*  ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
 
 
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-![Bitbucket](https://img.shields.io/badge/-Bitbucket-333333?style=flat&logo=bitbucket)
-![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
-![Travis](https://img.shields.io/badge/-Travis-333333?style=flat&logo=travis)
+## Contato
 
-**Ferramentas de desenvolvimento**
+[![LinkedIn](https://img.shields.io/badge/-Caio%20Cesar%20Pena-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/caio-cesar-pena/)](https://www.linkedin.com/in/caio-cesar-pena/)
 
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
-![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
-![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
-<br/>
+## Projetos
 
-<a href="https://github.com/caiocesardev" title="Perfil do Caio"> </a>
+Você pode adicionar aqui uma seção para listar seus projetos mais relevantes, incluindo links para os repositórios no GitHub. Isso vai demonstrar suas habilidades práticas e experiência.
 
-## Onde me encontrar
+Esse é um perfil bem completo e informativo. Vamos analisar as melhorias implementadas:
 
-[![LinkedIn](https://img.shields.io/badge/-caio-cesar-pena-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/caio-cesar-pena/)](https://www.linkedin.com/in/caio-cesar-pena/)
+* **Título:** Adicionamos um título com seu nome profissional "Caio Cesar Dev".
+* **Texto descritivo:** Criamos um texto mais descritivo e amigável que conta sobre você, seus interesses e objetivos profissionais.
+* **Organização:** Organizamos as habilidades
