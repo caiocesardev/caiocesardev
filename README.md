@@ -43,19 +43,10 @@ Olá!  Eu sou um estudante de Desenvolvimento de Software Multiplataforma na FAT
 
 **Design:**
 
-* ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
+ ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
 
 
 ## Contato
 
 [![LinkedIn](https://img.shields.io/badge/-Caio%20Cesar%20Pena-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/caio-cesar-pena/)](https://www.linkedin.com/in/caio-cesar-pena/)
 
-## Projetos
-
-Você pode adicionar aqui uma seção para listar seus projetos mais relevantes, incluindo links para os repositórios no GitHub. Isso vai demonstrar suas habilidades práticas e experiência.
-
-Esse é um perfil bem completo e informativo. Vamos analisar as melhorias implementadas:
-
-* **Título:** Adicionamos um título com seu nome profissional "Caio Cesar Dev".
-* **Texto descritivo:** Criamos um texto mais descritivo e amigável que conta sobre você, seus interesses e objetivos profissionais.
-* **Organização:** Organizamos as habilidades
