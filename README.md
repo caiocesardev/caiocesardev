@@ -48,5 +48,5 @@ Olá!  Eu sou um estudante de Desenvolvimento de Software Multiplataforma na FAT
 
 ## Contato
 
-[![LinkedIn](https://img.shields.io/badge/-Caio%20Cesar%20Pena-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/caio-cesar-pena/)](https://www.linkedin.com/in/caio-cesar-pena/)
+[![LinkedIn](https://img.shields.io/badge/-Caio%20Cesarr-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/caio-cesar-pena/)](https://www.linkedin.com/in/caio-cesar-pena/)
 
