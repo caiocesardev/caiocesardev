@@ -8,45 +8,42 @@ Olá!  Eu sou um estudante de Desenvolvimento de Software Multiplataforma na FAT
 
 **Frontend:**
 
-*  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-*  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-*  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)   
-  
-*  ![Bootstrap](text=Bootstrap)  *  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)     
+  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=Bootstrap&logoColor=007396) 
+  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 
 **Backend:**
 
-*  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![Typescript](https://img.shields.io/badge/-Typescript-333333?style=flat&logo=Typescript&logoColor=007396)
 
 **Bancos de Dados:**
 
-*  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-*  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+ ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+ ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 
 **Ferramentas:**
 
-*  ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
+  ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
 
 **DevOps:**
 
-*  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-*  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-*  ![Bitbucket](https://img.shields.io/badge/-Bitbucket-333333?style=flat&logo=bitbucket)
-*  ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
-*  ![Travis](https://img.shields.io/badge/-Travis-333333?style=flat&logo=travis)
+  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+  ![Bitbucket](https://img.shields.io/badge/-Bitbucket-333333?style=flat&logo=bitbucket)
+
 
 **Ambientes de Desenvolvimento:**
 
-*  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-*  ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
-
-**Gerenciamento de Projetos:**
-
-*  ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
+ ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
 
 **Design:**
 
-*  ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
+* ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
 
 
 ## Contato
